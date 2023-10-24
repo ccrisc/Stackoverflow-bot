@@ -5,7 +5,7 @@ A discord bot to search Stack Overflow questions
 
 Written in Python 3.9
 
-## 👀
+## Preview
 ![](https://i.ibb.co/VWXPGW5/image-2022-05-07-202341359.png)
 ![](https://i.ibb.co/PG68bZm/image-2022-05-07-002807207.png)
 
