@@ -1,9 +1,7 @@
 
 # StackOverBot 🤖
 
-A discord bot to search Stack Overflow questions
-
-Written in Python 3.9
+A discord bot to search Stack Overflow questions written in Python.
 
 ## Preview
 ![](https://i.ibb.co/VWXPGW5/image-2022-05-07-202341359.png)
