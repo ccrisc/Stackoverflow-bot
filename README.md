@@ -1,5 +1,5 @@
 
-# StackOverBot 🤖
+# StackOverBot 
 
 A discord bot to search Stack Overflow questions written in Python.
 
