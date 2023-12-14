@@ -14,7 +14,7 @@
 *Click the ⏭ to show the next question !*
 
 
-### Built With / Interact with
+## Built With / Interact with
 * ![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 * ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 * ![stack](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
@@ -22,13 +22,11 @@
 
 
 ## Usage
+Perform comunication with the discord API with : [Pycord](https://github.com/Pycord-Development/pycord)
 
 **Bot token can be stored in separated `.env` file in a `env` folder at the root of the repository**
 
-Perform comunication with the discord API with : [Pycord](https://github.com/Pycord-Development/pycord)
-
-
-## Build Docker
+### Docker 🐋
 
 Build image using : 
 ```
