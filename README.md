@@ -26,7 +26,7 @@ Perform comunication with the discord API with : [Pycord](https://github.com/Pyc
 
 **Bot token can be stored in separated `.env` file in a `env` folder at the root of the repository**
 
-### Docker 🐋
+## Docker 🐋
 
 Build image using : 
 ```
@@ -52,8 +52,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-License : [DBAD](https://github.com/philsturgeon/dbad)
-Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
+Distributed under [DBAD](https://github.com/philsturgeon/dbad). See `LICENSE` for more information.
 
 
 
